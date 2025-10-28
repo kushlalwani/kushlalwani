@@ -16,14 +16,14 @@
 </div>
 
 ---
-
+<!--
 <!-- Activity Graph full width -->
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushlalwani&theme=nightowl&area=true&hide_border=false" width="100%" alt="activity graph" />
 </div>
 
 ---
-
+-->
 <!-- Trophies full width -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kushlalwani&theme=dracula&margin-w=15&margin-h=15" width="100%" alt="trophy graph" />
