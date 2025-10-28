@@ -11,8 +11,8 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushlalwani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushlalwani&layout=compact&langs_count=6&card_width=420&theme=dracula&hide_border=false" height="180" alt="languages graph" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushlalwani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushlalwani&layout=compact&langs_count=6&card_width=420&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin: 10px;" />
 </div>
 
 ---
