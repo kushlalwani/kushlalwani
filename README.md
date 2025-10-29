@@ -24,15 +24,17 @@
 
 ---
 -->
+
 <!-- Trophies full width -->
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kushlalwani&theme=dracula&margin-w=15&margin-h=15" width="100%" alt="trophy graph" />
 </div>
-
+-->
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushlalwani.kushlalwani&left_color=darkgrey&right_color=rebeccapurple&left_text=Who's%20Here?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushlalwani.kushlalwani&left_color=darkgrey&right_color=rebeccapurple&left_text=Visitors"  />
 </div>
 
 ###
